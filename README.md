@@ -72,10 +72,10 @@ Add this code to your program and fill in the variables To get the desired resul
 Calculates the distance between two GPS coordinates in either miles or kilometers.
 
 The function takes in four required parameters:
-- [lat1]: The latitude of the first coordinate.
-- [lon1]: The longitude of the first coordinate.
-- [lat2]: The latitude of the second coordinate.
-- [lon2]: The longitude of the second coordinate.
+- lat1: The latitude of the first coordinate.
+- lon1: The longitude of the first coordinate.
+- lat2: The latitude of the second coordinate.
+- lon2: The longitude of the second coordinate.
 
 The function also takes in one optional parameter:
 - [km]: A boolean value that determines whether the distance should be returned in kilometers (true) or miles (false).
