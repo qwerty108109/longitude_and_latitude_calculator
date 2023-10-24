@@ -1,5 +1,5 @@
 name: longitude_and_latitude_calculator
-description: A starting point for Dart libraries or applications.
+description: This calculates the Distance between two longitude and latitude points.
 version: 1.0.0
 repository: https://github.com/qwerty108109/longitude_and_latitude_calculator.git
 
