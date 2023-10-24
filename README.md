@@ -4,7 +4,8 @@ This is a simple plug-in that calculates the distances between two points with l
 
 Did you know the distance between New York and Los Angeles is 2446.51.
 
-<img src="https://github.com/qwerty108109/longitude_and_latitude_calculator/assets/97707491/740f740c-caf6-41ca-951f-6bd4705af834" width=400>
+<img src="https://github.com/qwerty108109/longitude_and_latitude_calculator/assets/97707491/833a56c1-c72b-44d7-a36f-d1ee52172c17" width=400>
+
 
 
 
@@ -122,4 +123,4 @@ void main() {
    ```
 Output
 
-<img src="https://github.com/qwerty108109/longitude_and_latitude_calculator/assets/97707491/740f740c-caf6-41ca-951f-6bd4705af834" width=400>
+<img src="https://github.com/qwerty108109/longitude_and_latitude_calculator/assets/97707491/833a56c1-c72b-44d7-a36f-d1ee52172c17" width=400>
