@@ -1,7 +1,7 @@
 name: longitude_and_latitude_calculator
 description: A starting point for Dart libraries or applications.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/qwerty108109/longitude_and_latitude_calculator.git
 
 environment:
   sdk: ^3.1.3

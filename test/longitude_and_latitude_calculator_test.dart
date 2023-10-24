@@ -10,8 +10,6 @@ void main() {
     });
 
     test('First Test', () {
-      var lonAndLatDistance = LonAndLatDistance();
-
       final double miles = lonAndLatDistance.lonAndLatDistance(
           lat1: 34.052235,
           lon1: -118.243683,
