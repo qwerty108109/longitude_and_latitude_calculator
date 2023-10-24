@@ -4,4 +4,8 @@
 
 ## 1.0.1
 
-- Updated code formatting 
+- Updated code formatting
+
+## 1.0.2
+
+- Documentation fix 
