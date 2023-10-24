@@ -17,7 +17,6 @@ void main() {
           lon2: -73.984016,
           km: false);
       expect(miles, 2446.519306778203);
-
     });
   });
 }
