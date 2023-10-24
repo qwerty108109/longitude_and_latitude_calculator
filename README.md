@@ -82,10 +82,10 @@ The function also takes in one optional parameter:
 
 If [km] is not provided, it defaults to false (miles).
 If any of the coordinates are not provided, they default to the following values:
-- lat1: 34.052235
-- lon1: -118.243683
-- lat2: 40.754932
-- lon2: -73.984016
+- [lat1]: 34.052235
+- [lon1]: -118.243683
+- [lat2]: 40.754932
+- [lon2]: -73.984016
 
 Returns the distance between the two coordinates in either miles or kilometers.
 ## Example
